@@ -23,7 +23,7 @@ namespace ButtonClick
             {
                 MessageBox.Show("Bruh???");
             }
-            MessageBox.Show("OKAY!");
+            MessageBox.Show("GOOD LUCK!");
         }
     }
 }
